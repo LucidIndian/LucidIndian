@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on customer service or Rails stuff
 - 🤔 I’m looking for help with writing better code
 - 💬 Ask me about exercise science, gardening, and Dragon Ball Z
-- 📫 How to reach me: @tyghwlaters on X
+- 📫 How to reach me: @TyghWalters on X/Twitter
 - ⚡ Fun fact: I play the 5-string bango! 🪕

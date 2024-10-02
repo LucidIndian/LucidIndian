@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- **LucidIndian/LucidIndian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 🔭 I’m currently working on SellerSmile, SlopeCS https://SlopeCS.com, GeoGardening https://GeoGardening.app, and 200Email!
+- 🔭 I’m currently working on SellerSmile, SlopeCS, GeoGardening, and 200Email!
 - 🌱 I’m currently learning Ruby on Rails, Hotwire, Javascript
 - 👯 I’m looking to collaborate on customer service or Rails stuff
 - 🤔 I’m looking for help with writing better code

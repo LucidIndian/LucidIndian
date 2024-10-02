@@ -8,4 +8,3 @@
 - 📫 How to reach me: @tyghwlaters on X
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play the 5-string bango! 🪕
-- 

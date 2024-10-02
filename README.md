@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with writing better code
 - 💬 Ask me about exercise science, gardening, and Dragon Ball Z
 - 📫 How to reach me: @tyghwlaters on X
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I play the 5-string bango! 🪕

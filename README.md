@@ -10,4 +10,3 @@
 - 🤔 Looking for help with writing **better** code
 - 💬 Ask me about exercise science, gardening, and Dragon Ball Z
 - 📫 How to reach me: [@TyghWalters](https://x.com/TyghWalters) on X/Twitter
-- ⚡ Fun fact: I'm allergic to mammal meat 🥩💉

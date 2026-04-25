@@ -3,7 +3,7 @@
 - 🔭 Working on
   - 🙂 [SellerSmile](https://www.sellersmile.com/) - your outsourced e-commerce customer service team since 2017
   - ⌳ [SlopeCS](https://slopecs.com/) - 100x productivity with a new framework for e-commerce support
-  - 🃛 [Cribbage Helper](https://lucidindian.github.io/cribbage-helper/) - Calculate best keeps via expected value calculation
+  - 🃛 [Cribbage Helper](https://lucidindian.github.io/cribbage-helper/) - Have perfect discarding (maximum scoring) via expected value calculation
   - 🧑‍🌾 [GeoGardening](https://geogardening.app/) - location-based tips and activity journal for any garden in the world
   - 📧 200Email - Easy email validation and verification
 - 🌱 Learning Ruby, Rails, Hotwire, Javascript, Shopify apps, and how to play the 5-string banjo 🪕
